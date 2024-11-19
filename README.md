@@ -1,4 +1,6 @@
 # IMAGE-TRANSFORMATIONS
+### EXP : 4
+### DATE : 16 / 9 /24
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -26,8 +28,8 @@ Use NumPy array slicing to crop the image by selecting a region of interest.
 
 ## Program:
 
-## Developed By: MANOJ M
-## Register Number: 212221240027  
+#### Developed By: MANOJ M
+#### Register Number: 212221240027  
 ```python
 i)Image Translation
 import cv2
